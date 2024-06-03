@@ -21,7 +21,7 @@ Checkout the live demo at https://demo-spa.stackpuz.com
 
 ## Installation
 1. Clone this repository. `git clone https://github.com/stackpuz/Boilerplate-CRUD-Vue-3-Express-4.git .`
-2. Change directory to Vue project. `cd Boilerplate-CRUD-Vue-3-Express-4/vue`
+2. Change directory to Vue project. `cd vue`
 3. Install the Vue dependencies. `npm install`
 4. Change directory to Express project. `cd ../express_api`
 5. Install the Express dependencies. `npm install`
