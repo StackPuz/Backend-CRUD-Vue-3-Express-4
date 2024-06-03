@@ -1,5 +1,5 @@
-# Backend-CRUD-Vue-3-Express-4
-Boilerplate Backend CRUD Web App created with Vue 3 + Express 4 by [StackPuz](https://stackpuz.com).
+# Boilerplate-CRUD-Vue-3-Express-4
+Boilerplate CRUD Web App created with Vue 3 + Express 4 by [StackPuz](https://stackpuz.com).
 
 ## Demo
 Checkout the live demo at https://demo-spa.stackpuz.com
@@ -20,8 +20,8 @@ Checkout the live demo at https://demo-spa.stackpuz.com
 - MySQL 5.7
 
 ## Installation
-1. Clone this repository. `git clone https://github.com/stackpuz/Backend-CRUD-Vue-3-Express-4.git .`
-2. Change directory to Vue project. `cd Backend-CRUD-Vue-3-Express-4/vue`
+1. Clone this repository. `git clone https://github.com/stackpuz/Boilerplate-CRUD-Vue-3-Express-4.git .`
+2. Change directory to Vue project. `cd Boilerplate-CRUD-Vue-3-Express-4/vue`
 3. Install the Vue dependencies. `npm install`
 4. Change directory to Express project. `cd ../express_api`
 5. Install the Express dependencies. `npm install`
